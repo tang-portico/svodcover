@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState, useRef, useEffect, useCallback } from 'react';
 import { Upload, Download, Layers, X, RefreshCw, MousePointer2, Plus, Minus, Maximize, Image as ImageIcon, Stamp, Trash2, Smartphone, Monitor, Move, ZoomIn, Check, ArrowLeft, Eye, Archive, Wand2, Palette, Sliders, RefreshCcw } from 'lucide-react';
 
